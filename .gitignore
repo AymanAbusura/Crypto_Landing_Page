@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Ignore compiled or temporary files
+*.css.map
+*.js.map
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
