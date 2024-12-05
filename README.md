@@ -10,7 +10,7 @@ This repository contains the code for a Plant Website Landing Page. It’s a vis
 
 ## 🛠️ Technologies
 * HTML5: Structuring the web page with semantic markup.
-* CSS3: Styling for a modern and responsive design.
+* TailwindCSS: Styling for a modern and responsive design.
 * JavaScript: Adding interactivity to the landing page.
 
 <img width="1680" alt="1" src="https://github.com/user-attachments/assets/0e35c819-6871-4400-a319-d6a5ba64b2e7">
