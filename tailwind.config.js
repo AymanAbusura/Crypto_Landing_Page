@@ -8,7 +8,11 @@ module.exports = {
       lg: "768px",
       xl: "1180px",
     },
-    extend: {},
+    extend: {
+      width: {
+        '96px': '6rem',
+      },
+    },
     keyframes: {
       move: {
         "50%": { transform: "translateY(-1rem)" },
